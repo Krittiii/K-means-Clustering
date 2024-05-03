@@ -1,5 +1,4 @@
 Customer Segmentation using K-Means Clustering
-Task 2- Creating a K-means clustering algorithm to group customers of a retail store based on their purchase history.
 
 Customer segmentation is the process of grouping a company's customers using shared characteristics so that the company can cater to each group effectively and appropriately. Machine learning models can process customer data and discover patterns difficult to spot through intuition and manual examination of data. 
 
