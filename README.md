@@ -1,4 +1,4 @@
-Customer Segmentation using K-Means Clustering
+TASK 2 of Machine Learning Internship Internship at Prodigy Infotech: Customer Segmentation using K-Means Clustering
 
 Customer segmentation is the process of grouping a company's customers using shared characteristics so that the company can cater to each group effectively and appropriately. Machine learning models can process customer data and discover patterns difficult to spot through intuition and manual examination of data. 
 
